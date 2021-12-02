@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e790f051-9f24-44e4-a1d2-306fbf0f756b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day1/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/day2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/test2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/day1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day1/day1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +61,11 @@
       <recent name="$PROJECT_DIR$/day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.day1.js">
+  <component name="RunManager" selected="Node.js.day2.js">
     <configuration name="day1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day1/day1.js" working-dir="$PROJECT_DIR$/day1">
+      <method v="2" />
+    </configuration>
+    <configuration name="day2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day2/day2.js" working-dir="$PROJECT_DIR$/day2">
       <method v="2" />
     </configuration>
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/day1/index.php">
@@ -69,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.day2.js" />
         <item itemvalue="Node.js.day1.js" />
         <item itemvalue="PHP Script.index.php" />
       </list>
@@ -101,7 +106,7 @@
       <updated>1638438515215</updated>
       <workItem from="1638438516629" duration="583000" />
       <workItem from="1638439129181" duration="731000" />
-      <workItem from="1638439977946" duration="515000" />
+      <workItem from="1638439977946" duration="1655000" />
     </task>
     <servers />
   </component>
