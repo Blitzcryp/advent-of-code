@@ -15,7 +15,7 @@ function invert(x) {
 /*
  * PART 1
  */
-fs.readFile("./input.txt", "utf8", function (err, data){
+fs.readFile("./testtxt", "utf8", function (err, data){
     let result = Array.from(data.split('\n'), x => Array.from(x, x => parseInt(x)));
 
     const rowLen = result[0].length;
@@ -23,8 +23,10 @@ fs.readFile("./input.txt", "utf8", function (err, data){
 
     let gammaRate = "";
     let epsilonRate = "";
+    let mostCommonBits = [];
 
     // Getting gamma rate
+    // PART 1
     for(let i = 0; i < rowLen; i++){
         let firstNum = 0;
 
@@ -33,17 +35,36 @@ fs.readFile("./input.txt", "utf8", function (err, data){
         }
 
         firstNum = Math.round(firstNum/colLength);
+        mostCommonBits.push(firstNum);
 
         gammaRate += `${firstNum}`;
     }
 
+    // PART 2
+    let ratings = { "O2": [], "CO2": []};
+
+    let O2 = result;
+    let CO2 = result;
+
+    for(let i = 0; i < rowLen; i++){
+            const mostCommon = mostCommonBits[i];
+
+            console.log({ "Iteration" : i, O2, CO2});
+
+            O2 = O2.filter(x => x[i] === mostCommon);
+            // CO2 = CO2.filter(x => x[i] !== mostCommon);
+    }
+
+
     console.log({
-                    // result,
                     rowLen,
                     colLength,
                     gammaRate: parseInt(gammaRate, 2),
                     epsilonRate: invert(parseInt(gammaRate, 2)),
-                    answer: parseInt(gammaRate, 2) * invert(parseInt(gammaRate, 2))
+                    answer: parseInt(gammaRate, 2) * invert(parseInt(gammaRate, 2)),
+                    mostCommonBits,
+                    O2,
+                    CO2
     });
 })
 

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e790f051-9f24-44e4-a1d2-306fbf0f756b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day3/day3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/day5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/day3.js" beforeDir="false" afterPath="$PROJECT_DIR$/day3/day3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="PhpServers">
     <option name="servers">
@@ -60,7 +67,7 @@
       <recent name="$PROJECT_DIR$/day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.day3.js">
+  <component name="RunManager" selected="Node.js.day5.js">
     <configuration name="day1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day1/day1.js" working-dir="$PROJECT_DIR$/day1">
       <method v="2" />
     </configuration>
@@ -70,11 +77,15 @@
     <configuration name="day3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day3/day3.js" working-dir="$PROJECT_DIR$/day3">
       <method v="2" />
     </configuration>
+    <configuration name="day5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day5/day5.js" working-dir="$PROJECT_DIR$/day5">
+      <method v="2" />
+    </configuration>
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/day1/index.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.day5.js" />
         <item itemvalue="Node.js.day3.js" />
         <item itemvalue="Node.js.day2.js" />
         <item itemvalue="Node.js.day1.js" />
@@ -110,14 +121,12 @@
       <workItem from="1638438516629" duration="583000" />
       <workItem from="1638439129181" duration="731000" />
       <workItem from="1638439977946" duration="1684000" />
-      <workItem from="1638519326397" duration="860000" />
+      <workItem from="1638519326397" duration="2157000" />
+      <workItem from="1638782250072" duration="3088000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
 </project>
