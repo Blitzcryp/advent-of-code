@@ -4,6 +4,7 @@ const { performance } = require('perf_hooks');
 
 
 fs.readFile("./input.txt", "utf8", function (err, data){
+    console.time();
     let fishes = getFishZeroState();
     Array.from(data.split(','), x => parseInt(x)).forEach( (fish) => {
         fishes[fish]["nb"] += 1;
@@ -37,6 +38,7 @@ fs.readFile("./input.txt", "utf8", function (err, data){
         sum += fishes[key]["nb"];
     }
 
+    console.timeEnd();
     console.log({sum})
 });
 
