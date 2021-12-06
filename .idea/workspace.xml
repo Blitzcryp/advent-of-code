@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e790f051-9f24-44e4-a1d2-306fbf0f756b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day5/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/day6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/day5.js" beforeDir="false" afterPath="$PROJECT_DIR$/day5/day5.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <recent name="$PROJECT_DIR$/day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.day5.js">
+  <component name="RunManager" selected="Node.js.day6.js">
     <configuration name="day1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day1/day1.js" working-dir="$PROJECT_DIR$/day1">
       <method v="2" />
     </configuration>
@@ -98,16 +99,16 @@
     <configuration name="day5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day5/day5.js" working-dir="$PROJECT_DIR$/day5">
       <method v="2" />
     </configuration>
-    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/day1/index.php">
+    <configuration name="day6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day6/day6.js" working-dir="$PROJECT_DIR$/day6">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.day6.js" />
         <item itemvalue="Node.js.day5.js" />
         <item itemvalue="Node.js.day3.js" />
         <item itemvalue="Node.js.day2.js" />
         <item itemvalue="Node.js.day1.js" />
-        <item itemvalue="PHP Script.index.php" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <workItem from="1638439977946" duration="1684000" />
       <workItem from="1638519326397" duration="2157000" />
       <workItem from="1638782250072" duration="3415000" />
-      <workItem from="1638812047605" duration="1556000" />
+      <workItem from="1638812047605" duration="6096000" />
     </task>
     <servers />
   </component>
@@ -160,22 +161,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="459" key="GridCell.Tab.0.bottom" timestamp="1638813594036">
+    <state width="916" height="479" key="GridCell.Tab.0.bottom" timestamp="1638818179470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="459" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638813594036" />
-    <state width="1877" height="459" key="GridCell.Tab.0.center" timestamp="1638813594036">
+    <state width="916" height="479" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638818179470" />
+    <state width="916" height="479" key="GridCell.Tab.0.center" timestamp="1638818179470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="459" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638813594036" />
-    <state width="1877" height="459" key="GridCell.Tab.0.left" timestamp="1638813594036">
+    <state width="916" height="479" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638818179470" />
+    <state width="916" height="479" key="GridCell.Tab.0.left" timestamp="1638818179469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="459" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638813594036" />
-    <state width="1877" height="459" key="GridCell.Tab.0.right" timestamp="1638813594036">
+    <state width="916" height="479" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638818179469" />
+    <state width="916" height="479" key="GridCell.Tab.0.right" timestamp="1638818179470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="459" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638813594036" />
+    <state width="916" height="479" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638818179470" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1638813526002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
