@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e790f051-9f24-44e4-a1d2-306fbf0f756b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day7/day7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/day6.js" beforeDir="false" afterPath="$PROJECT_DIR$/day6/day6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +86,7 @@
       <recent name="$PROJECT_DIR$/day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.day6.js">
-    <configuration name="day1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day1/day1.js" working-dir="$PROJECT_DIR$/day1">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.day7.js">
     <configuration name="day2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day2/day2.js" working-dir="$PROJECT_DIR$/day2">
       <method v="2" />
     </configuration>
@@ -100,13 +99,16 @@
     <configuration name="day6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day6/day6.js" working-dir="$PROJECT_DIR$/day6">
       <method v="2" />
     </configuration>
+    <configuration name="day7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day7/day7.js" working-dir="$PROJECT_DIR$/day7">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.day7.js" />
         <item itemvalue="Node.js.day6.js" />
         <item itemvalue="Node.js.day5.js" />
         <item itemvalue="Node.js.day3.js" />
         <item itemvalue="Node.js.day2.js" />
-        <item itemvalue="Node.js.day1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -157,55 +159,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="916" height="479" key="GridCell.Tab.0.bottom" timestamp="1638818482942">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="916" height="479" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638818482942" />
-    <state width="916" height="479" key="GridCell.Tab.0.center" timestamp="1638818482942">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="916" height="479" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638818482942" />
-    <state width="916" height="479" key="GridCell.Tab.0.left" timestamp="1638818482942">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="916" height="479" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638818482942" />
-    <state width="916" height="479" key="GridCell.Tab.0.right" timestamp="1638818482942">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="916" height="479" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638818482942" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
-    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
-    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
-    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
-    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1638813526002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638813526002" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
